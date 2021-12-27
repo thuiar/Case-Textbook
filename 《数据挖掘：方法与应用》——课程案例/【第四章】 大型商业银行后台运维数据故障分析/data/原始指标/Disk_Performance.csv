@@ -1,0 +1,11 @@
+TMZDIFF	WRITETIME	System_Name	Timestamp	Disk_Name	Transfer_Rate	Transferred_Bytes	Busy_Percent	Avg_Queue	Avg_Wait	Avg_Serv	Disk_Name_U	Percent_Disk_Read_Time	Percent_Disk_Write_Time	Disk_Reads_Sec	Disk_Writes_Sec	Disk_Read_Bytes_Sec	Disk_Write_Bytes_Sec	Avg_Disk_Bytes_Xfer
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk16	0	0	0	-1	-1	-1	hdisk16	-1	-1	-1	-1	0	0	0
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk14	0	0	0	-1	-1	-1	hdisk14	-1	-1	-1	-1	0	3413	113
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk17	0	0	0	-1	-1	-1	hdisk17	-1	-1	-1	-1	0	3140	104
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk12	0	0	0	-1	-1	-1	hdisk12	-1	-1	-1	-1	0	0	0
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk7	0	2	0	-1	-1	-1	hdisk7	-1	-1	-1	-1	0	89838	2994
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk5	0	2	0	-1	-1	-1	hdisk5	-1	-1	-1	-1	0	73454	2448
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk4	0	0	0	-1	-1	-1	hdisk4	-1	-1	-1	-1	0	0	0
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk6	1	4	0	-1	-1	-1	hdisk6	-1	-1	-1	-1	0	130935	4364
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk11	0	0	0	-1	-1	-1	hdisk11	-1	-1	-1	-1	136	0	4
+-28800	1.13073E+15	beaiapp1:KUX	1.13072E+15	hdisk10	0	3	0	-1	-1	-1	hdisk10	-1	-1	-1	-1	0	95573	3185
